@@ -13,7 +13,6 @@ Soy un joven colombiano apasionado por la tecnología, en constante aprendizaje 
 </p>
 
 # 📊 GitHub Estadística:
-# 📊 GitHub Estadística:
 ![](https://github-readme-stats.vercel.app/api?username=kevin-villegas13&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kevin-villegas13&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-villegas13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
