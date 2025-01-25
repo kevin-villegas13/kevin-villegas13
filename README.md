@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 soy Kevin 💻</h1>
-Soy un joven colombiano apasionado por la tecnología, en constante aprendizaje y desarrollo en programación. Me enfoco en colaborar, crecer profesionalmente y contribuir a proyectos significativos mientras aporto a la comunidad.
+Soy un joven colombiano apasionado por la tecnología, en constante aprendizaje y desarrollo en programación. Me enfoco en colaborar, crecer profesionalmente y contribuir a proyectos significativos mientras aporto junto con la comunidad.
 
 
 ## 🌐 Sociales:
