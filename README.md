@@ -3,7 +3,7 @@
 <p align="center">
   <b>Selecciona tu idioma / Select your language:</b>  
   <br>
-  <a href="#español">🇪🇸 Español</a> | <a href="#english">🇬🇧 English</a>
+  <a href="#-español">🇪🇸 Español</a> | <a href="#-english">🇬🇧 English</a>
 </p>
 
 ---
