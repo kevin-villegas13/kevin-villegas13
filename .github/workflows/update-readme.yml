@@ -1,0 +1,31 @@
+name: Switch README Language
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Cambia el README todos los días a medianoche
+  workflow_dispatch: # Permite cambiarlo manualmente desde GitHub Actions
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar el repositorio
+        uses: actions/checkout@v3
+
+      - name: Alternar entre idiomas
+        run: |
+          if [ -f README.md ] && grep -q "Hola 👋 soy Kevin" README.md; then
+            cp README_EN.md README.md
+          else
+            cp README_ES.md README.md
+          fi
+
+      - name: Subir cambios
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Alternando idioma del README"
+          git push
+        continue-on-error: true
