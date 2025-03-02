@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋 soy Kevin 💻</h1>
 Soy un joven colombiano apasionado por la tecnología, en constante aprendizaje y desarrollo en programación. Me enfoco en colaborar, crecer profesionalmente y contribuir a  proyectos significativos mientras aporto a la comunidad.      
-             
+              
 ## 🌐 Sociales:    
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/385181387491246080)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-villegas-666bb61ab/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinvilleperez@gmail.com)
 
