@@ -4,36 +4,15 @@
 
 ###
 
-<br clear="both">
-
-<p align="left">Soy un joven colombiano apasionado por la tecnología, en constante aprendizaje y desarrollo en programación. Me enfoco en colaborar, crecer profesionalmente y contribuir a proyectos significativos mientras aporto a la comunidad.</p>
+<h3 align="left">🚀 Ingeniero de sistemas | Desarrollador Full Stack</h3>
 
 ###
 
-<p align="left">🌐 Sociales:</p>
+<p align="left">Soy un ingeniero de sistemas colombiano con experiencia en .NET, NestJS, React y TypeScript. Me especializo en crear aplicaciones escalables, eficientes y modernas. Me apasiona la programación, el aprendizaje continuo y contribuir a la comunidad tecnológica.</p>
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/kevin-villegas-666bb61ab/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/385181387491246080" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://wa.me/573173552802" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="mailto:kevinvilleperez@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<p align="left">💻 Tecnología:</p>
+<h3 align="left">💻 Tecnologías & Herramientas</h3>
 
 ###
 
@@ -81,26 +60,54 @@
 
 ###
 
+<h3 align="left">🌐 Redes Sociales</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/kevin-villegas-666bb61ab/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/385181387491246080" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://wa.me/573173552802" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:kevinvilleperez@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">📊 Estadísticas</h3>
+
+###
+
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevin-villegas13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin-villegas13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=kevin-villegas13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<br clear="both">
+<h3 align="left">🎶 Mi Música</h3>
 
-<img src="https://raw.githubusercontent.com/kevin-villegas13/kevin-villegas13/output/snake.svg" alt="Snake animation" />
+###
+
+<p align="left">La música es un fuente continuo de motivación en mi vida y en mi actividad.  Me ayuda en mantener la concentración y en crear soluciones de forma más creativa.  A continuación, mostraré algunas de mis últimas canciones.</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fdhtjpzjti53qgx5lx7ftxbbpu&unique={true|1|on|yes})?" alt="Widget with the current Spotify song"  />
+  <a href="https://open.spotify.com/user/31fdhtjpzjti53qgx5lx7ftxbbpu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fdhtjpzjti53qgx5lx7ftxbbpu&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
-
-###
